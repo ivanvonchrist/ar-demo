@@ -12,5 +12,5 @@ newmtl koala
 	Kd 1.0000 1.0000 1.0000
 	Ks 0.0900 0.0900 0.0900
 	Ke 0.0000 0.0000 0.0000
-	map_Ka E:\Downloads\Koala_v1_L3.123c87dd0eb9-4a12-47b1-946a-2b5f3d84773b\koala_diff.jpg
-	map_Kd E:\Downloads\Koala_v1_L3.123c87dd0eb9-4a12-47b1-946a-2b5f3d84773b\koala_diff.jpg
+	map_Ka koala_diff.jpg
+	map_Kd koala_diff.jpg
