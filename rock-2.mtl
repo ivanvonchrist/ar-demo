@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 07.09.2019 07:47:55
+# File Created: 07.09.2019 07:53:38
 
 newmtl rock_2_Material_002
 	Ns 13.7255
@@ -12,3 +12,5 @@ newmtl rock_2_Material_002
 	Kd 0.9373 0.0000 0.9490
 	Ks 0.0079 0.0079 0.0079
 	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\Downloads\green-orange-and-yellow-ink.jpg
+	map_Kd E:\Downloads\green-orange-and-yellow-ink.jpg
