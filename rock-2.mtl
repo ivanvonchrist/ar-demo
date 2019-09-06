@@ -12,5 +12,5 @@ newmtl rock_2_Material_002
 	Kd 0.9373 0.0000 0.9490
 	Ks 0.0079 0.0079 0.0079
 	Ke 0.0000 0.0000 0.0000
-	map_Ka E:\Downloads\green-orange-and-yellow-ink.jpg
-	map_Kd E:\Downloads\green-orange-and-yellow-ink.jpg
+	map_Ka Rock-Texture-Surface.jpg
+	map_Kd Rock-Texture-Surface.jpg
