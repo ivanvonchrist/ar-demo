@@ -12,5 +12,5 @@ newmtl koala
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0588 0.0588 0.0588
-	map_Ka c:\users\user\documents\3dsmax\scenes\koala_diff.jpg
-	map_Kd c:\users\user\documents\3dsmax\scenes\koala_diff.jpg
+	map_Ka koala_diff.jpg
+	map_Kd koala_diff.jpg
